@@ -20,6 +20,10 @@
   transform: translateX(-65%);
 }
 
+.logo__img {
+  max-width: 82%;
+}
+
 .header__links {
   display: flex;
   align-items: center;
@@ -124,6 +128,10 @@
   .header__logo {
     left: 15px;
     transform: translateX(0);
+  }
+
+  .logo__img {
+    max-width: 52%;
   }
 
   .header__container {
