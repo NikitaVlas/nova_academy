@@ -14,7 +14,7 @@ const Header = () => {
         <div className="header__logo">
           <Logo />
         </div>
-        <ul className="header__links"></ul>
+        <ul className="header__links list-reset" />
       </div>
     </header>
   );
