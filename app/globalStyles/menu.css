@@ -19,7 +19,9 @@
 .nav-menu__logo {
   opacity: 0;
   transform: translate3d(0, 36px, 0);
+  margin-top: 10px;
   margin-bottom: 150px;
+  max-width: 52%;
 }
 
 .nav-menu::-webkit-scrollbar {
@@ -134,8 +136,8 @@
   transition: border-color .2s ease-in-out, color .2s ease-in-out;
 }
 
-.nav-menu__lang__btn:first-child {
-  margin-right: 24px;
+.nav-menu__lang__btn{
+  margin-right: 12px;
 }
 
 .nav-menu__lang__btn.lang-active {
