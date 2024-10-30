@@ -2,16 +2,28 @@
   "en": {
     "header": {
       "menu_btn": "Menu"
+    },
+    "main_menu": {
+      "about": "About us",
+      "contacts": "Contacts"
     }
   },
   "de": {
     "header": {
       "menu_btn": "Menü"
+    },
+    "main_menu": {
+      "about": "Über uns",
+      "contacts": "Kontakte"
     }
   },
   "ru": {
     "header": {
       "menu_btn": "Меню"
+    },
+    "main_menu": {
+      "about": "O нас",
+      "contacts": "Контакты"
     }
   }
 }
