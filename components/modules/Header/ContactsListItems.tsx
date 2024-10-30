@@ -7,8 +7,21 @@ const ContactsListItems = () => {
 
   return (
     <>
-      <li className='nav-menu__accordion__item'>
-
+      <li className="nav-menu__accordion__item">
+        <a
+          href="tel:+49000000"
+          className="nav-menu__accordion__item__link nav-menu__accordion__item__title"
+        >
+          +49000000
+        </a>
+      </li>
+      <li className="nav-menu__accordion__item">
+        <a
+          href="nova_academy@gmail.com"
+          className="nav-menu__accordion__item__link"
+        >
+          Email
+        </a>
       </li>
     </>
   )
