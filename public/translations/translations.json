@@ -5,7 +5,10 @@
     },
     "main_menu": {
       "about": "About us",
-      "contacts": "Contacts"
+      "contacts": "Contacts",
+      "course": "Course",
+      "trainers": "Trainers",
+      "prices": "Prices"
     }
   },
   "de": {
@@ -14,7 +17,10 @@
     },
     "main_menu": {
       "about": "Über uns",
-      "contacts": "Kontakte"
+      "contacts": "Kontakte",
+      "course": "Kursplan",
+      "trainers": "Trainer",
+      "prices": "Preise"
     }
   },
   "ru": {
@@ -23,7 +29,10 @@
     },
     "main_menu": {
       "about": "O нас",
-      "contacts": "Контакты"
+      "contacts": "Контакты",
+      "course": "Курсы",
+      "trainers": "Тренера",
+      "prices": "Цены"
     }
   }
 }
