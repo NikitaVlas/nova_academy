@@ -9,6 +9,11 @@
       "course": "Course",
       "trainers": "Trainers",
       "prices": "Prices"
+    },
+    "footer": {
+      "copyright": "made by Nikita Vlasov",
+      "policy": "Policy",
+      "privacy": "Privacy"
     }
   },
   "de": {
@@ -21,6 +26,11 @@
       "course": "Kursplan",
       "trainers": "Trainer",
       "prices": "Preise"
+    },
+    "footer": {
+      "copyright": "Erstellt von Nikita Vlasov",
+      "policy": "Impressum",
+      "privacy": "Datenschutz"
     }
   },
   "ru": {
@@ -33,6 +43,11 @@
       "course": "Курсы",
       "trainers": "Тренера",
       "prices": "Цены"
+    },
+    "footer": {
+      "copyright": "сделано Никитой Власовым",
+      "policy": "Политика обработки данных",
+      "privacy": "Политика конфиденциальности"
     }
   }
 }
