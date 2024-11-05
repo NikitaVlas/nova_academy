@@ -16,7 +16,6 @@
 .header__logo {
   position: absolute;
   left: 50%;
-  top: 8px;
   transform: translateX(-65%);
 }
 
@@ -131,20 +130,15 @@
   }
 
   .logo__img {
-    max-width: 52%;
+    max-width: 62%;
   }
 
   .header__container {
     justify-content: flex-end;
     padding-top: 24px;
-    padding-bottom: 20px;
   }
 
   .header__links__item:nth-child(n+2):nth-child(-n+4) {
-    display: none;
-  }
-
-  .header__burger {
     display: none;
   }
 
