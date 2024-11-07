@@ -20,6 +20,11 @@
       "copyright": "made by Nikita Vlasov",
       "policy": "Policy",
       "privacy": "Privacy"
+    },
+    "main_page": {
+      "hero_hidden_title": "Brazilian Jiu Jitsu Nova Academy",
+      "hero_title": "Nova Academy",
+      "hero_description": "Be in Jiu Jitsu"
     }
   },
   "de": {
@@ -43,6 +48,11 @@
       "copyright": "Erstellt von Nikita Vlasov",
       "policy": "Impressum",
       "privacy": "Datenschutz"
+    },
+    "main_page": {
+      "hero_hidden_title": "Brazilian Jiu Jitsu Nova Academy",
+      "hero_title": "Nova Academy",
+      "hero_description": "Mach Jiu Jitsu"
     }
   },
   "ru": {
@@ -67,6 +77,11 @@
       "copyright": "сделано Никитой Власовым",
       "policy": "Политика обработки данных",
       "privacy": "Политика конфиденциальности"
+    },
+    "main_page": {
+      "hero_hidden_title": "Бразильское Джиу Джитсу Nova Academy",
+      "hero_title": "Nova Academy",
+      "hero_description": "Занимайся Джиу Джитсу"
     }
   }
 }
