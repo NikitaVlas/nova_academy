@@ -27,8 +27,6 @@ const Footer = () => {
         <div className="container footer__bottom__container">
           <div className="footer__copyright">
             ©2024 {translations[lang].footer.copyright}
-            <br />
-            (18+)
           </div>
           <div className="footer__policy">
             <div className="footer__policy__inner">
