@@ -24,7 +24,8 @@
     "main_page": {
       "hero_hidden_title": "Brazilian Jiu Jitsu Nova Academy",
       "hero_title": "Nova Academy",
-      "hero_description": "Be in Jiu Jitsu"
+      "hero_description": "Be in Jiu Jitsu",
+      "photo": "photo"
     }
   },
   "de": {
@@ -52,7 +53,8 @@
     "main_page": {
       "hero_hidden_title": "Brazilian Jiu Jitsu Nova Academy",
       "hero_title": "Nova Academy",
-      "hero_description": "Mach Jiu Jitsu"
+      "hero_description": "Mach Jiu Jitsu",
+      "photo": "photo"
     }
   },
   "ru": {
@@ -81,7 +83,8 @@
     "main_page": {
       "hero_hidden_title": "Бразильское Джиу Джитсу Nova Academy",
       "hero_title": "Nova Academy",
-      "hero_description": "Занимайся Джиу Джитсу"
+      "hero_description": "Занимайся Джиу Джитсу",
+      "photo": "фотография"
     }
   }
 }

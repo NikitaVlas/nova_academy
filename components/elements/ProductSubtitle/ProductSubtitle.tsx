@@ -1,5 +1,3 @@
-
-import img1 from '@/public/img/photo.png'
 import { useLang } from "@/hooks/useLang";
 import { IProductSubtitleProps } from "@/types/elements"
 
