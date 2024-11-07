@@ -2,6 +2,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import CookieAlert from "@/components/modules/CookieAlert/CookieAlert";
+import MainPage from "@/components/templates/MainPage/MainPage";
 
 export default function Home() {
   const [cookieAlertOpen, setCookieAlertOpen] = useState(false)
@@ -15,7 +16,7 @@ export default function Home() {
 
   return (
     <>
-      page
+      <MainPage />
       {cookieAlertOpen && (
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
