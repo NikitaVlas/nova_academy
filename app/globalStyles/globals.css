@@ -73,3 +73,26 @@ body {
 .swiper-slide-shadow-coverflow {
   background-image: none !important;
 }
+
+.auth-overlay,
+.share-overlay {
+  background: #16181b;
+  height: 100%;
+  left: 0;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  visibility: hidden;
+  width: 100%;
+  z-index: -1;
+}
+
+.auth-overlay.overlay-active,
+.share-overlay.overlay-active {
+  opacity: 0.6;
+  visibility: visible;
+}
+
+.auth-overlay.overlay-active, .size-table-overlay.overlay-active {
+  z-index: 100;
+}

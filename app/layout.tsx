@@ -5,6 +5,7 @@ import "./globalStyles/header.css";
 import "./globalStyles/menu.css";
 import "./globalStyles/footer.css";
 import "./globalStyles/cookie-popup.css";
+import "./globalStyles/auth-popup.css";
 import Layout from "@/components/layouts/Layout";
 
 export const metadata: Metadata = {
