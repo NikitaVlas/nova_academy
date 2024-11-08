@@ -11,6 +11,7 @@ import ProductSubtitle from "@/components/elements/ProductSubtitle/ProductSubtit
 import productSubtitleStyles from "@/styles/productSubtitle/index.module.scss";
 import img1 from "@/public/img/photo.png";
 import HeroSlide from "@/components/modules/MainPage/Hero/HeroSlide";
+import { handleOpenAuthPopup } from "@/lib/utils/common";
 
 const Hero = () => {
   const { lang, translations } = useLang()
@@ -76,12 +77,12 @@ const Hero = () => {
             className={`${styles.hero__title__subtitle} ${
               lang === "ru" ? "" : styles.hero__title__subtitle_lang
             }`}
-          >
-          </span>
+          />
           <span className={styles.hero__title__text}>
             {translations[lang].main_page.hero_title}
           </span>
         </h2>
+        <button onClick={handleOpenAuthPopup}>Записаться</button>
       </div>
     </section>
   )
